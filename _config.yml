@@ -1,0 +1,39 @@
+# Site Settings
+title: "Cyber Tools & Research"
+description: "Your go-to resource for Windows-based cyber tools, malware research, and security analysis."
+url: "https://labrat0.github.io"  # Replace with your actual site URL
+baseurl: ""  # Leave empty for root domain or set to a subfolder
+author:
+  name: "LabRat Mick"
+  email: "contact@ratbyte.dev"
+  github: "your_github_username"  # Optional, if you have a GitHub or similar profile
+  
+# Build settings
+markdown: kramdown
+theme: "jekyll-theme-cayman"  # Choose a theme, or change it to any theme you prefer
+paginate: 10  # Number of posts per page
+
+# Customization Options
+google_analytics: "UA-XXXXXXXX-X"  # Optional, if you're using Google Analytics
+favicon: "/assets/favicon.ico"  # Optional, link to your site’s favicon
+
+# Social sharing settings
+social:
+  
+  github: "your_github_username"
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Tools"
+    url: "/tools"
+  - title: "Malware Research"
+    url: "/malware-research"
+  - title: "Blog"
+    url: "/blog"
+  - title: "About"
+    url: "/about"
+
+
+
