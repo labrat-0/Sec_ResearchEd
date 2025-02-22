@@ -1,15 +1,15 @@
 # Site settings
 # Update these placeholders with your information
 
-title: "My Research Hub"
+title: "Research Hub"
 description: "Exploring Windows Security, Malware Analysis, and Reverse Engineering."
-author: "Your Name"
+author: "LabRat Mick"
 baseurl: ""
-url: "https://yourusername.github.io"
-github_username: "yourusername"
+url: "https://labrat0.github.io"
+github_username: "LabRat0"
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -24,3 +24,4 @@ nav:
     link: /projects
   - name: About
     link: /about
+
