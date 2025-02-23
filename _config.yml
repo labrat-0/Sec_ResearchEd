@@ -1,24 +1,41 @@
 # _config.yml
 
 # Site settings
-title: "Cyb3r Research"
-description: "A simple GitHub Pages site for my research and documentation."
-url: "https://yourusername.github.io"  # Replace with your actual GitHub username
+title: "Research Page"
+description: " modern look."
+url: "https://labrat-0.github.io"  # Replace with your actual GitHub username
 
 # Theme and layout settings
-theme: jekyll-theme-minimal   # You can change this to another Jekyll theme
-markdown: kramdown            # Markdown processor (default is Kramdown)
+theme: jekyll-theme-cayman  # More modern than the default
 
-# Build settings
-baseurl: ""                   # Leave empty if hosting at root (yourusername.github.io)
-exclude:
-  - "README.md"               # Exclude README file from site
-  - "LICENSE"                 # Exclude LICENSE file
+# Custom styling
+sass:
+  style: compressed  # Minifies CSS for faster loading
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed  # Adds an RSS feed
+  - jekyll-seo-tag  # Improves SEO with meta tags
+
+# Navigation (if using a theme with a navbar)
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Projects"
+    url: "/projects"
 
 # Social links
 social_links:
-  github: "https://github.com/labrat-0"
+  github: "https://labrat-0.github.io"
+"
 
-# Custom settings (optional)
-show_downloads: true   # Show download links for repositories
+# Excluded files
+exclude:
+  - "README.md"
+  - "LICENSE"
 
+# Markdown settings
+markdown: kramdown
+highlighter: rouge  # Syntax highlighting for code blocks
