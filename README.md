@@ -7,7 +7,7 @@
 **Title:** Research Hub  
 **Description:** Exploring Windows Security, Malware Analysis, and Reverse Engineering.  
 **Author:** LabRat Mick  
-**GitHub:** [LabRat0](https://labrat0.github.io)
+**GitHub:** [LabRat0](https://github.com/labrat-0)
 
 ## 🔧 Build Settings
 - **Theme:** jekyll-theme-hacker
