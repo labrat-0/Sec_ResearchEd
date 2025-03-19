@@ -1,19 +1,12 @@
-# Site settings
-# Update these placeholders with your information
+
 
 🚀 **Welcome to the Research Hub!** 🚀
 
 ## About This Site
-**Title:** Research Hub  
-**Description:** Exploring Windows Security, Malware Analysis, and Reverse Engineering.  
-**Author:** LabRat Mick  
-**GitHub:** [LabRat0](https://github.com/labrat-0)
-
-## 🔧 Build Settings
-- **Theme:** jekyll-theme-hacker
-- **Plugins:**
-  - jekyll-feed
-  - jekyll-seo-tag
+**Research Hub**
+**Exploring Windows Security, Malware Analysis, and Reverse Engineering**
+**Author**:LabRat Mick  
+**GitHub:** [LabRat0](https://github.com/labrat0)
 
 ## 🛰️ Navigation
 - 🏠 [Home](#)
