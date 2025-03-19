@@ -6,7 +6,7 @@
 **Research Hub**
 **Exploring Windows Security, Malware Analysis, and Reverse Engineering**
 **Author**:LabRat Mick  
-**GitHub:** [LabRat0](https://github.com/labrat0)
+**GitHub:** [LabRat0](https://github.com/labrat-0)
 
 ## 🛰️ Navigation
 - 🏠 [Home](#)
