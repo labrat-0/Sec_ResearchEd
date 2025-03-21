@@ -10,7 +10,7 @@
 
 ## 🛰️ Navigation
 - 🏠 [Home](#)
-- 📖 [Blog](#)
+- 📖 [Blog](https://github.com/labrat-0/Cyb3r/blob/main/blog.md)
 - 🔬 [Projects](#)
 - 📜 [About](#)
 
