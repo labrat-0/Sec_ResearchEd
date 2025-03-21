@@ -11,7 +11,7 @@
 ## 🛰️ Navigation
 - 🏠 [Home](#)
 - 📖 [Blog](https://github.com/labrat-0/Cyb3r/blob/main/blog.md)
-- 🔬 [Projects](#)
+- 🔬 [Projects](https://github.com/labrat-0/Cyb3r/blob/main/projects.md)
 - 📜 [About](#)
 
 ---
