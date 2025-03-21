@@ -3,11 +3,11 @@
 🚀 **Welcome to the Projects Page!** 🚀
 
 ## About This Page
-**Purpose:** Showcase hands-on security tools and projects related to Windows security and malware analysis.
+**Purpose:** Projects that I take on gather more insights
 
 ## Featured Projects
-- **Project Title 1**  
-  *Description of the project...*  
+- **SysInternals**  
+  *Creating a space for Winternal research/studies*  
   [View Project](#)
 
 - **Project Title 2**  
