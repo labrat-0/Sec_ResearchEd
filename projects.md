@@ -1,23 +1,25 @@
-# Projects
+# 📖 Blog
 
-🚀 **Welcome to the Projects Page!** 🚀
-
-## About This Page
-**Purpose:** Projects that I take on gather more insights
-
-## Featured Projects
-- **SysInternals**  
-  *Creating a space for Winternal research/studies*  
-  [View Project](#)
-
-- **Project Title 2**  
-  *Description of the project...*  
-  [View Project](#)
-
-- **Project Title 3**  
-  *Description of the project...*  
-  [View Project](#)
+Welcome to the **Research Hub Blog**! Here, I dive deep into Windows security research, analyze various malware threats, and explore reverse engineering techniques. Stay updated as I release more write-ups and findings!
 
 ---
 
-🚀 *Explore our projects for practical insights!*
+## 📝 Latest Posts
+
+### [Post Title #1](post-link-1)  
+*Posted on [Date]*  
+An introduction to the post, summarizing key points. Dive deeper into the research by following the link above.
+
+---
+
+### [Post Title #2](post-link-2)  
+*Posted on [Date]*  
+Another summary here. Provide insight into what readers can expect from the full post.
+
+---
+
+Stay tuned for more content as I continue to explore Windows security!
+
+---
+> "Knowledge is power, and security is essential."  
+— LabRat Mick
